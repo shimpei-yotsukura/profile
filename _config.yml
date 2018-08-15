@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title: 四倉晋平 Shimpei Yotsukura
+github:
+  is_project_page: false
