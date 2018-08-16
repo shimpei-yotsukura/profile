@@ -1,4 +1,4 @@
-<img src="/images/face.jpg" width=20% align=right>
+<img src="images/face.jpg" width=20% align=right>
 updated on 2018/07/26
 
 
