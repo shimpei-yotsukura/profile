@@ -6,13 +6,13 @@ updated on 2018/07/26
 - 情報検索
 
 ### アカウント
-- Twitter
-- Github
+- [Twitter](https://twitter.com/yotsukura)
+- [Github](https://github.com/shimpei-yotsukura)
 
 ### 経歴
 - LINE株式会社 自然言語処理エンジニア (2017年12月 ~ 現在)
-  - Clova 自然言語理解・音楽検索
-  - Drucker
+  - [Clova](https://clova.line.me/) 自然言語理解・音楽検索
+  - [Drucker](https://github.com/drucker)
 - 日本アイ・ビー・エム株式会社 製品開発エンジニア (2014年9月 ~ 2017年11月)
   - Watson Knowledge Studio
   - Watson Explorer
