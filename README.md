@@ -1,6 +1,4 @@
-\<img src="https://shimpei-yotsukura.github.io/profile/images/face.jpg" width=20% align=right\>
 updated on 2018/07/26
-
 
 ### 専門
 - 機械学習
