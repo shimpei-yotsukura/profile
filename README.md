@@ -9,6 +9,7 @@ updated on 2018/07/26
 ### アカウント
 - [Twitter](https://twitter.com/yotsukura)
 - [Github](https://github.com/shimpei-yotsukura)
+- [LinkedIn](https://www.linkedin.com/in/shimpei-yotsukura/)
 
 ### 経歴
 - LINE株式会社 自然言語処理エンジニア (2017年12月 ~ 現在)
