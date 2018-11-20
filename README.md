@@ -8,7 +8,7 @@ updated on 2018/07/26
 
 ### アカウント
 - [Twitter](https://twitter.com/yotsukura)
-- [Github](https://github.com/shimpei-yotsukura)
+- Github
 - [LinkedIn](https://www.linkedin.com/in/shimpei-yotsukura/)
 
 ### 経歴
