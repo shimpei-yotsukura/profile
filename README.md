@@ -14,6 +14,7 @@ updated on 2018/12/18
 ### 経歴
 - LINE株式会社 自然言語処理エンジニア (2017年12月 ~ 現在)
   - [Clova](https://clova.line.me/) 自然言語理解・音楽検索
+  - LINE Search [[Cnet Japan]](https://japan.cnet.com/article/35139150/)[[app world]](https://appli-world.jp/posts/5684) 検索キーワード補完(Autocomlete) 
   - [Drucker](https://github.com/drucker)
 - 日本アイ・ビー・エム株式会社 製品開発エンジニア (2014年9月 ~ 2017年11月)
   - [Watson Knowledge Studio](https://www.ibm.com/watson/services/knowledge-studio/)
