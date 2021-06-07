@@ -17,7 +17,7 @@ updated on 2018/12/18
     - [LINEカーナビ](https://carnavi.line.me/)
     - [Gatebox](https://www.gatebox.ai/about)
   - LINE Search 検索キーワード補完(Autocomlete)
-  　　　　- [LINEショッピング](https://ec.line.me/)  
+    - [LINEショッピング](https://ec.line.me/)  
 - 日本アイ・ビー・エム株式会社 製品開発エンジニア (2014年9月 ~ 2017年11月)
   - [Watson Knowledge Studio](https://www.ibm.com/watson/services/knowledge-studio/)
   - [Watson Explorer](https://www.ibm.com/analytics/jp/ja/technology/watson/explorer.html)
