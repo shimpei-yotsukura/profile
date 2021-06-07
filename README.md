@@ -12,12 +12,12 @@ updated on 2018/12/18
 - [LinkedIn](https://www.linkedin.com/in/shimpei-yotsukura/)
 
 ### 経歴
-- LINE株式会社 自然言語処理エンジニア (2017年12月 ~ 現在)
+- LINE株式会社 サーバサイドエンジニア (2021年1月 ~ 現在) 自然言語処理エンジニア (2017年12月 ~ 2020年12月)
   - [Clova](https://clova.line.me/) 自然言語理解・音楽検索
     - [LINEカーナビ](https://carnavi.line.me/)
     - [Gatebox](https://www.gatebox.ai/about)
-  - LINE Search [[Cnet Japan]](https://japan.cnet.com/article/35139150/)[[app world]](https://appli-world.jp/posts/5684) 検索キーワード補完(Autocomlete) 
-  - [Drucker](https://github.com/drucker)
+  - LINE Search 検索キーワード補完(Autocomlete)
+  　　　　- [LINEショッピング](https://ec.line.me/)  
 - 日本アイ・ビー・エム株式会社 製品開発エンジニア (2014年9月 ~ 2017年11月)
   - [Watson Knowledge Studio](https://www.ibm.com/watson/services/knowledge-studio/)
   - [Watson Explorer](https://www.ibm.com/analytics/jp/ja/technology/watson/explorer.html)
