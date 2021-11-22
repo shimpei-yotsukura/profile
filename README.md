@@ -15,8 +15,8 @@
 - LINE株式会社 シニアサーバサイドエンジニア (2021年10月 ~ 現在)
 - LINE株式会社 サーバサイドエンジニア (2021年1月 ~ 2021年9月)
 - LINE株式会社 自然言語処理エンジニア (2017年12月 ~ 2020年12月)
-  - [Clova](https://clova.line.me/) 自然言語理解・音楽検索
-    - [LINEカーナビ](https://carnavi.line.me/)
+  - [AIスピーカー Clova](https://clova.line.me/device/) 自然言語理解・音楽検索
+    - [LINEカーナビ](https://linecorp.com/ja/pr/news/ja/2019/2892)
     - [Gatebox](https://www.gatebox.ai/about)
   - LINE Search 検索キーワード補完(Autocomlete)
     - [LINEショッピング](https://ec.line.me/)  
