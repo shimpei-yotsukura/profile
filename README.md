@@ -1,18 +1,20 @@
-updated on 2018/12/18
+2021/11/22更新
 <img align="right" width="100" height="100" src="https://shimpei-yotsukura.github.io/profile/images/face_2.jpg">
 
 ### 専門
-- 機械学習
-- 自然言語処理
+- Webアプリケーション開発(サーバサイド)
 - 情報検索
+- 自然言語処理
+- 機械学習
 
 ### アカウント
 - [Twitter](https://twitter.com/yotsukura)
-- Github
 - [LinkedIn](https://www.linkedin.com/in/shimpei-yotsukura/)
 
 ### 経歴
-- LINE株式会社 サーバサイドエンジニア (2021年1月 ~ 現在) 自然言語処理エンジニア (2017年12月 ~ 2020年12月)
+- LINE株式会社 シニアサーバサイドエンジニア (2021年10月 ~ 現在)
+- LINE株式会社 サーバサイドエンジニア (2021年1月 ~ 2021年9月)
+- LINE株式会社 自然言語処理エンジニア (2017年12月 ~ 2020年12月)
   - [Clova](https://clova.line.me/) 自然言語理解・音楽検索
     - [LINEカーナビ](https://carnavi.line.me/)
     - [Gatebox](https://www.gatebox.ai/about)
