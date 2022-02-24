@@ -35,6 +35,12 @@
 
 ### 発表
 - "Voice UIによる音楽検索 -「ねえClova、打ち上げ花火かけて」の大変さ-", 四倉晋平, LINE DEVELOPER DAY 2018, [[資料]](https://linedevday.linecorp.com/jp/2018/#Foyer-9)[[TECH PLAY]](https://techplay.jp/column/423)
+- "2.2億枚の画像を効率的にOCR処理するための分散処理アーキテクチャ", [[TECH PLAY]](https://techplay.jp/event/838626)
+
+### 資格
+- TOEIC 815点 (2014/09/28)
+- TOEIC IP 835点 (2019/06/20)
+- TOEFL 76点 (2011/05/14)
 
 ### 受賞
 - 平成23年度 [クラーク賞](https://www.hokudai.ac.jp/gakusei/campus-life/campus/incentive.html#%E5%8C%97%E6%B5%B7%E9%81%93%E5%A4%A7%E5%AD%A6%E3%82%AF%E3%83%A9%E3%83%BC%E3%82%AF%E8%B3%9E) 財団法人北海道大学クラーク記念財団 (2012年3月)
